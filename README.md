@@ -1,6 +1,6 @@
 # esemte
 
-Deze repo bevat de code van mijn eigen website (html, css, js)
+Deze repo bevat de info van mijn eigen website (html, css, js)
 
 ## voorwoord
 "Mijn naam is Sven Maes en ik ben een ervaren full stack webdeveloper en docent met expertise in verschillende programmeertalen en -technologieën. Ik bied mijn diensten aan als zelfstandige ontwikkelaar en docent voor projecten van alle omvang en complexiteit.
